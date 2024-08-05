@@ -29,6 +29,7 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
 icerock-moko-resources = { group = "dev.icerock.moko", name = "resources", version.ref = "icerockMokoResources" }
 icerock-moko-resources-compose = { group = "dev.icerock.moko", name = "resources-compose", version.ref = "icerockMokoResources" }
+icerock-moko-resources-generator = { module = "dev.icerock.moko:resources-generator", version.ref = "icerockMokoResources" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
